@@ -7,6 +7,9 @@ import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
 
+
+//Toast example
+
 /**
  * Created by Aravind on 10/09/2016.
  */
