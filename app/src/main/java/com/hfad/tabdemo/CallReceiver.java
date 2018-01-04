@@ -63,6 +63,7 @@ public class CallReceiver extends PhonecallReceiver {
         ewords.add("stolen");
         ewords.add("lost");
         ewords.add("asap");
+/* Hello There!*/
 
         List<String> qwords = new ArrayList<String>();
         qwords.add("are");//index 0
