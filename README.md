@@ -46,3 +46,14 @@ The message sent along with the call from the sender is viewed as a pop-up on th
 callXT also has a text analysis feature that gives it the ability to understand and classify the messages being sent, and will display the pop-up accordingly. These pop-ups have different styles that correspond to the type of message being sent.
 
 ---
+
+## Built With
+
+* [Java](https://java.com/en/) 
+* [Android Studio](https://developer.android.com/index.html) Application development
+* [Photoshop](www.adobe.com/Photoshop) creation of icons and images
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
