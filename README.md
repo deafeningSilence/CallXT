@@ -5,7 +5,7 @@ callXT is an android app that sends the subject of the call along with the call 
 # Using the application
 
 <p>
-## Home screen
+<h2>Home screen</h2>
 
 <img align="right" src="https://github.com/deafeningSilence/callXT/blob/master/screenshots/screenshot4.jpg">
 
