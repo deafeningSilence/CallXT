@@ -17,3 +17,6 @@ callXT is an android app that sends the subject of the call along with the call 
 ![](screenshots/screenshot2.jpeg)
 
 ## Sending an emphasized message
+
+![](screenshots/screenshot5.jpeg)
+![](screenshots/screenshot1.jpeg)
