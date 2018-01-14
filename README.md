@@ -33,7 +33,7 @@ The message sent along with the call from the sender is viewed as a pop-up on th
 ## Sending an emphasized message
 
 <p align="center">
-  <img src="https://github.com/deafeningSilence/callXT/blob/master/screenshots/screenshot5.jpeg">
+  <img src="https://github.com/deafeningSilence/callXT/blob/master/screenshots/screenshot5.jpeg">&nbsp;&nbsp;
   <img src="https://github.com/deafeningSilence/callXT/blob/master/screenshots/screenshot1.jpg">
 </p>
 
