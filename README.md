@@ -8,8 +8,9 @@ callXT is an android app that sends the subject of the call along with the call 
 
 The application works similar to the phone's dialer application. On opening the application, you will land on a dialer which acts a normal dialer where you can enter a phone number and place a call by pressing the call button. 
 
-![](screenshots/screenshot4.jpg)
+<p align="center">
 <img src="https://github.com/deafeningSilence/callXT/blob/master/screenshots/screenshot4.jpg">
+</p>
 
 ## Message box
 
