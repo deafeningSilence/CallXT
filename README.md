@@ -6,15 +6,19 @@ callXT is an android app that sends the subject of the call along with the call 
 
 ## Home screen
 
-The application works similar to the phone's dialer application. On opening the application, you will be able to view a dialer which acts a normal dialer where you can enter a phone number and place a call. 
+The application works similar to the phone's dialer application. On opening the application, you will land on a dialer which acts a normal dialer where you can enter a phone number and place a call by pressing the call button. 
 
 ![](screenshots/screenshot4.jpg)
 
 ## Message box
 
+By long pressing the call button, a pop-up will appear with an empty text box. This text box is used to enter messages that are to be sent to the reciever along with the call. The message is sent as an SMS and is tagged with details to identify the call it is related to on the receiver's mobile once the call has been placed.
+
 ![](screenshots/screenshot3.jpeg)
 
 ## On the receiving end
+
+The message sent along with the call from the sender is viewed as a pop-up on the reciving end. This message can also be viewed later on by the reciever from his SMS inbox.
 
 ![](screenshots/screenshot2.jpeg)
 
