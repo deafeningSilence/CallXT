@@ -16,7 +16,9 @@ The application works similar to the phone's dialer application. On opening the 
 
 ## Message box
 
-<img align="right" src="https://github.com/deafeningSilence/callXT/blob/master/screenshots/screenshot3.jpeg">
+<p align="center">
+  <img src="https://github.com/deafeningSilence/callXT/blob/master/screenshots/screenshot3.jpeg">
+</p>
 
 By long pressing the call button, a pop-up will appear with an empty text box. This text box is used to enter messages that are to be sent to the reciever along with the call. The message is sent as an SMS and is tagged with details to identify the call it is related to on the receiver's mobile once the call has been placed.
 
@@ -24,9 +26,14 @@ By long pressing the call button, a pop-up will appear with an empty text box. T
 
 The message sent along with the call from the sender is viewed as a pop-up on the reciving end. This message can also be viewed later on by the reciever from his SMS inbox.
 
-![](screenshots/screenshot2.jpeg)
+<p align="center">
+  <img src="https://github.com/deafeningSilence/callXT/blob/master/screenshots/screenshot2.jpeg">
+</p>
 
 ## Sending an emphasized message
 
-![](screenshots/screenshot5.jpeg)
-![](screenshots/screenshot1.jpg)
+<p align="center">
+  <img src="https://github.com/deafeningSilence/callXT/blob/master/screenshots/screenshot5.jpeg">
+  <img src="https://github.com/deafeningSilence/callXT/blob/master/screenshots/screenshot1.jpg">
+</p>
+
