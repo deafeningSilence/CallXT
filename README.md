@@ -14,9 +14,9 @@ The application works similar to the phone's dialer application. On opening the 
 
 ## Message box
 
-By long pressing the call button, a pop-up will appear with an empty text box. This text box is used to enter messages that are to be sent to the reciever along with the call. The message is sent as an SMS and is tagged with details to identify the call it is related to on the receiver's mobile once the call has been placed.
+<img align="right" src="https://github.com/deafeningSilence/callXT/blob/master/screenshots/screenshot3.jpeg">
 
-![](screenshots/screenshot3.jpeg)
+By long pressing the call button, a pop-up will appear with an empty text box. This text box is used to enter messages that are to be sent to the reciever along with the call. The message is sent as an SMS and is tagged with details to identify the call it is related to on the receiver's mobile once the call has been placed.
 
 ## On the receiving end
 
