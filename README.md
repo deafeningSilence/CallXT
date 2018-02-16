@@ -1,9 +1,8 @@
 # CallXT
 
-callXT is an android app that sends the subject of the call along with the call and is received at the receiver end as a pop up. It integrates the calling and texting features into one activity. This comes in very handy when the other person has to know the subject of the call and during emergency. It changes the pop up according to the type of the text message sent. callXT has a low level text analysis system to find the context of the call and display the pop up accordingly.
+CallXT is an Android app that sends the *subject of the call* along with the call and is received at the receiver end as a pop-up. It integrates the calling and texting features into one activity. This comes in very handy when the other person has to know the subject of the call and also during an emergency. It changes the pop-up according to the type of the text message sent. CallXT has a low level text analysis system to find the context of the call and display the pop-up accordingly.
 
 # Using the application
-
 
 ## Home screen
 
@@ -21,7 +20,7 @@ The application works similar to the phone's dialer application. On opening the 
   <img src="https://github.com/deafeningSilence/callXT/blob/master/screenshots/screenshot3.jpeg">
 </p>
 
-By long pressing the call button, a pop-up will appear with an empty text box. This text box is used to enter messages that are to be sent to the reciever along with the call. The message is sent as an SMS and is tagged with details to identify the call it is related to on the receiver's mobile once the call has been placed.
+By long pressing the call button, a pop-up will appear with an empty text box. This text box is used to enter messages that are to be sent to the reciever along with the call. The message is sent as an SMS and is tagged with details to identify the call it is related to on the receiver's mobile, once the call has been placed.
 
 ---
 
@@ -53,6 +52,15 @@ callXT also has a text analysis feature that gives it the ability to understand 
 * [Android Studio](https://developer.android.com/index.html) Application development
 * [Photoshop](www.adobe.com/Photoshop) creation of icons and images
 
+---
+
+## Team Members
+
+* [Abhijeeth Padarthi](https://github.com/rkinabhi)
+* [Arkoprabho Bhattacharjee](https://github.com/)
+* [Aravind Subramaniam](https://github.com/aravind098)
+
+---
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
