@@ -12,7 +12,6 @@ CallXT is an Android app that sends the *subject of the call* along with the cal
 
 The application works similar to the phone's dialer application. On opening the application, you will land on a dialer which acts as a normal dialer where you can enter a phone number and place a call by pressing the call button. 
 
-
 ## Message box
 
 <p align="center">
@@ -21,7 +20,6 @@ The application works similar to the phone's dialer application. On opening the 
 
 By long pressing the call button, a pop-up will appear with an empty text box. This text box is used to enter messages that are to be sent to the reciever along with the call. The message is sent as an SMS and is tagged with details to identify the call it is related to on the receiver's mobile, once the call has been placed.
 
-
 ## On the receiving end
 
 The message sent along with the call from the sender is viewed as a pop-up on the reciving end. This message can also be viewed later on by the reciever from his SMS inbox.
@@ -29,7 +27,6 @@ The message sent along with the call from the sender is viewed as a pop-up on th
 <p align="center">
   <img src="https://github.com/deafeningSilence/callXT/blob/master/screenshots/screenshot2.jpeg">
 </p>
-
 
 ## Sending an emphasized message
 
@@ -41,13 +38,11 @@ The message sent along with the call from the sender is viewed as a pop-up on th
 
 callXT also has a text analysis feature that gives it the ability to understand and classify the messages being sent, and will display the pop-up accordingly. These pop-ups have different styles that correspond to the type of message being sent.
 
-
 ## Built With
 
 * [Java](https://java.com/en/) 
 * [Android Studio](https://developer.android.com/index.html) Application development
 * [Photoshop](www.adobe.com/Photoshop) creation of icons and images
-
 
 ## Team Members
 
@@ -55,10 +50,6 @@ callXT also has a text analysis feature that gives it the ability to understand 
 * [Arkoprabho Bhattacharjee](https://github.com/)
 * [Aravind Subramaniam](https://github.com/aravind098)
 
----
----
----
----
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
